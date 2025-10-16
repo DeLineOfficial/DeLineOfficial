@@ -16,6 +16,6 @@
 const developer = {
   code: ['JavaScript', 'TypeScript'],
   frameworks: ['Vue 2/3', 'Nuxt.js', 'Vue Router', 'Pinia/Vuex'],
-  tools: ['Vite', 'Webpack', 'Git', 'Docker'],
+  tools: ['Vite', 'Webpack', 'Git'],
   currentlyLearning: 'Nuxt 4',
 }
