@@ -9,9 +9,8 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeLineOfficial&layout=compact&theme=radical)](https://github.com/DeLineOfficial)
-</div>
 
 ```javascript
 const developer = {
