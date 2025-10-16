@@ -18,6 +18,5 @@ const developer = {
   code: ['JavaScript', 'TypeScript'],
   frameworks: ['Vue 2/3', 'Nuxt.js', 'Vue Router', 'Pinia/Vuex'],
   tools: ['Vite', 'Webpack', 'Git', 'Docker'],
-  currentlyLearning: 'Vue 3 Composition API',
-  funFact: 'Могу превратить кофе в работающий код ☕ → 💻'
+  currentlyLearning: 'Nuxt 4',
 }
