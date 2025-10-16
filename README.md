@@ -1,5 +1,14 @@
-## About me
-<h1>Hi there, I'm Artem</h1></h1>
+<h1 align="center">
+  <img src="https://vuejs.org/images/logo.png" width="30" style="vertical-align: middle;">
+  Привет, я [Ваше Имя] - Frontend Developer
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+
 ```javascript
 const developer = {
   code: ['JavaScript', 'TypeScript'],
