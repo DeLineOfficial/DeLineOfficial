@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://vuejs.org/images/logo.png" width="30" style="vertical-align: middle;">
-  Привет, я [Ваше Имя] - Frontend Developer
+  Привет, я Артем - Frontend Developer
 </h1>
 
 <p align="center">
